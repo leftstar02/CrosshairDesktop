@@ -1,0 +1,8 @@
+crosshair-settings.json
+crosshair-settings.json.bak
+crosshair-settings.json.tmp
+images/
+tests/image-test-*/
+tests/DesktopTests.exe
+tests/desktop-render-check.png
+tests/desktop-test-settings.json*
